@@ -14,7 +14,6 @@ header {
     justify-content: space-between;
     width: 90%;
     margin: 0 auto 50px auto;
-
 }
 
 header img {
@@ -46,7 +45,7 @@ main {
 
 main h1 {
     font-weight: 800;
-    font-size: 7rem;
+    font-size: 6rem;
     font-family: 'Londrina Solid', cursive;
 }
 
@@ -112,11 +111,9 @@ img a {
     width: 100%;
 }
 
-
-
 button {
     padding: 20px;
-    margin: 50px;
+    margin: 25px 0 75px 0;
     background-color: #5B62EA;
     border-radius: 10px;
     font-size: 2rem;
@@ -152,4 +149,8 @@ footer p {
 
 footer p:hover {
     color: #1420E6;
+}
+
+#commitment {
+    font-size:  4rem;
 }
