@@ -68,7 +68,6 @@ img a {
     height: 300px;
     justify-content: center;
     margin: 150px 0 150px 0;
-
 }
 
 .benefits h2 {
@@ -80,16 +79,39 @@ img a {
     display: flex;
     width: 90%;
     margin: 50px auto 50px auto;
-    flex: 1 1 0px
+    flex: 1 1 0;
 }
 
 .benefits-description .description {
-    margin: 0 15px 0 15px;
+    margin: 10px 15px 10px 15px;
     display: flex;
     flex-direction: column;
-    align-content: flex-end;
+}
+
+.description {
+    height: 350px;
+    width: 32%;
+    display: flex;
+}
+
+.description p {
+    margin-top: 35px;
+}
+
+.image-container {
+    height: 217px;
+}
+
+.description img {
+    height: 217px;
+
 
 }
+
+#special-image {
+    width: 100%;
+}
+
 
 
 button {
