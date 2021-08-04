@@ -3,5 +3,5 @@ Fictional website for company who repairs unwanted technology and works with non
 
 The site was made using vanilla HTML and CSS.
 
-![image](https://user-images.githubusercontent.com/76694402/128173254-920c9e84-8488-4087-93d8-dfd966440e86.png)
+![image](https://user-images.githubusercontent.com/76694402/128173415-8d436266-73fa-4b38-aaec-b032724d18e8.png)
 
